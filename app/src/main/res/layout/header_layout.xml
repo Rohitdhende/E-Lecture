@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="192dp"
+    android:background="@color/gray"
+    android:orientation="vertical"
+    android:gravity="bottom">
+
+<FrameLayout
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+<ImageView
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:text="My Header"
+    android:scaleType="centerCrop"
+   android:src="@drawable/rsd2"
+    android:textAppearance="@color/white"
+
+    android:textColor="@color/white"/>
+<View
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/gradient_header"/>
+</FrameLayout>
+
+</LinearLayout>
