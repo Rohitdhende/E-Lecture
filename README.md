@@ -26,17 +26,6 @@
 
 
 
-## Interface Preview 
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/ChmaraX/logregform-android/master/Preview/3.jpeg" width="210"/>
-  <img src="https://raw.githubusercontent.com/ChmaraX/logregform-android/master/Preview/4.jpeg" width="210"/>
-  <img src="https://raw.githubusercontent.com/ChmaraX/logregform-android/master/Preview/1.jpeg" width="210"/>
-  <img src="https://raw.githubusercontent.com/ChmaraX/logregform-android/master/Preview/2.jpeg" width="210"/>
-</p>
-
-#### Splashscreen
- <img src="https://raw.githubusercontent.com/ChmaraX/logregform-android/master/Preview/splash.gif" width="210"/>
 
 ## Implementation
 
